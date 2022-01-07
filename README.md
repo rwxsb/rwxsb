@@ -1,17 +1,27 @@
+ 
+ 
+### Hi, I am Suheyb Becerek 👋
+---
 
-<!--
-**sbecerek/sbecerek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Student @ Warsaw University of Technology. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS.
+### 🤝 Connect with me:
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/suheybbecerek/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Suheyb Becerek | LinkedIn" width="21px"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbecerek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🛠 Tech Stack:
+
+---
+
+### 📈 Github Stats:
+
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbecerek&theme=nord_bright) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbecerek&theme=nord_bright) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbecerek&theme=nord_bright) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbecerek&theme=nord_bright) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbecerek&theme=nord_bright) 
+  
