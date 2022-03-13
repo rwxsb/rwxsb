@@ -17,6 +17,11 @@ I am a Computer Science Student @ Warsaw University of Technology. Welcome to my
 ### 🛠 Tech Stack:
 
 
+
+<!--
+ ---
+[![](https://mermaid.ink/img/pako:eNpVkMtqAzEMRX9FeJ1V-gh4F5LQUugqlG5mY8bXqZsZKdhyyhDy73VpTSdaicPx5coX04uHseZTSmJMHVMdjTqAXuYoo9coTK-SOPLhFxK9uyOonCw9NLKREABLqwaehFToS9LR0mOD20ZWt_HroEgswrPXbxzPSDnqZOmu8bUq2NNmcDkjW1rSbdDujHnPGvMsI8jS_X9RDwqSaKp3ZgyhljELMyKNLvr6JZcfszP6gRGdsXX1CK4M2pmOr1UtJ-8UOx9VkrHBDRkL44rKfuLeWE0FTdpGd0hu_LOu327Idcg)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkMtqAzEMRX9FeJ1V-gh4F5LQUugqlG5mY8bXqZsZKdhyyhDy73VpTSdaicPx5coX04uHseZTSmJMHVMdjTqAXuYoo9coTK-SOPLhFxK9uyOonCw9NLKREABLqwaehFToS9LR0mOD20ZWt_HroEgswrPXbxzPSDnqZOmu8bUq2NNmcDkjW1rSbdDujHnPGvMsI8jS_X9RDwqSaKp3ZgyhljELMyKNLvr6JZcfszP6gRGdsXX1CK4M2pmOr1UtJ-8UOx9VkrHBDRkL44rKfuLeWE0FTdpGd0hu_LOu327Idcg)
+ -->
 ---
 
 ### 📈 Github Stats:
