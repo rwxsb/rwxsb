@@ -6,8 +6,8 @@
 I am a Computer Science Student @ Warsaw University of Technology. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS.
 ### 🤝 Connect with me:
 
-+ <a href="https://www.linkedin.com/in/suheybbecerek/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Suheyb Becerek | LinkedIn" width="21px"/></a>
-
++ <a href="https://www.linkedin.com/in/suheybbecerek/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Suheyb Becerek | LinkedIn" width="21px"/></a> @suheybbecerek
++ <img align="left" src="https://download.softwsp.com/sites/13/2020/04/icon-discord.png" alt="Suheyb Becerek | Discord" width="24px"/> @poissond#0710
 
 <br/>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
