@@ -1,6 +1,6 @@
  
  
-### Hi, I am Suheyb Becerek 👋
+### Hi, I am Suheyb 👋
 ---
 
 I am a Computer Science Student @ Warsaw University of Technology. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS.
