@@ -3,7 +3,7 @@
 ### Hi, I am Suheyb 👋
 ---
 
-I am a Computer Science Student @ Warsaw University of Technology. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS.
+I am a Computer Science Student @ Warsaw University of Technology. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS. Check [here](https://github.com/MiNI-PW) for my class work.
 ### 🤝 Connect with me:
 
 + <a href="https://www.linkedin.com/in/suheybbecerek/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Suheyb Becerek | LinkedIn" width="21px"/></a> @suheybbecerek
