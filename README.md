@@ -10,12 +10,12 @@ I am a Computer Science Student @ Warsaw University of Technology. Welcome to my
 + <img align="left" src="https://download.softwsp.com/sites/13/2020/04/icon-discord.png" alt="Suheyb Becerek | Discord" width="24px"/> @poissond#0710
 
 <br/>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
----
+<!-- ---
 
-### 🛠 Tech Stack:
-
+### 🛠 Learning:
+`React` | `TypeScript` | `SCSS` | `Azure Cloud` -->
 
 
 <!--
