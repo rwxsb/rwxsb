@@ -26,9 +26,11 @@ I am a Computer Science Student @ Warsaw University of Technology. Welcome to my
 
 ### 📈 Github Stats:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sbecerek)](https://git.io/streak-stats)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbecerek&theme=nord_bright) 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbecerek&theme=nord_bright) 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbecerek&theme=nord_bright) 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbecerek&theme=nord_bright) 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sbecerek&theme=nord_bright) 
+
   
