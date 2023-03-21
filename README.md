@@ -17,9 +17,11 @@ I am a Computer Science Student @ Warsaw University of Technology. Welcome to my
 ### 📈 Github Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sbecerek)](https://git.io/streak-stats)
+
+---
  
 ### 🏆 Trophies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbecerek" alt="sbecerek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbecerek&column=-1" alt="sbecerek" /></a> </p>
 
   
