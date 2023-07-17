@@ -3,7 +3,10 @@
 ### Hi, I am Suheyb 👋
 ---
 
-I am a Computer Science Student @ Warsaw University of Technology. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS. Check [here](https://github.com/MiNI-PW) for my class work.
+I am a Computer Science Student @ Warsaw University of Technology. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS.
+
+- 🧑‍🏭 Currently working on [ppanels](https://github.com/ppanels)
+
 ### 🤝 Connect with me:
 
 + <a href="https://www.linkedin.com/in/suheybbecerek/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Suheyb Becerek | LinkedIn" width="21px"/></a> @suheybbecerek
@@ -16,12 +19,12 @@ I am a Computer Science Student @ Warsaw University of Technology. Welcome to my
 
 ### 📈 Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sbecerek)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rwxsb)](https://git.io/streak-stats)
 
 ---
  
 ### 🏆 Trophies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbecerek&column=-1" alt="sbecerek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rwxsb&column=-1" alt="rwxsb" /></a> </p>
 
   
