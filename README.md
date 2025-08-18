@@ -17,8 +17,7 @@ I am a SWE @ C.H. Robinson. Welcome to my profile, feel free to check and fork m
 
 ### 📈 Github Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rwxsb)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=rwxsb&short_numbers=true&hide_total_contributions=true)](https://git.io/streak-stats)
 ---
  
 ### 🏆 Trophies:
