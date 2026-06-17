@@ -2,9 +2,6 @@
  
 ### Hi, I am Suheyb 👋
 ---
-
-I am a SWE @ C.H. Robinson. Welcome to my profile, feel free to check and fork my projects, In the end it is forking FOSS.
-
 ### 🤝 Connect with me:
 
 + <a href="https://www.linkedin.com/in/suheybbecerek/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Suheyb Becerek | LinkedIn" width="21px"/></a> @suheybbecerek
